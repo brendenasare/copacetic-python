@@ -28,7 +28,7 @@ def password_generator():
 	#printing the list
 	print("".join(password))
 
-# invoking the function to print password  times
+# invoking the function to print password 6 times
 for i in range(6):
 	password_generator()
 
